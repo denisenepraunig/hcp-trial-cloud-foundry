@@ -1,0 +1,7 @@
+---
+applications:
+- name:    cf-trial-hcp-node-hello
+  host:    denise-cf-trial-hcp-node-hello
+  domain: cfapps.us10.hana.ondemand.com
+  path: .
+  memory:  128MB
